@@ -22,5 +22,7 @@
         <action
             android:id="@+id/action_catDetailFragment_to_catsFragment"
             app:destination="@id/catsFragment" />
+        <argument android:name="cat"
+            app:argType="string" />
     </fragment>
 </navigation>
