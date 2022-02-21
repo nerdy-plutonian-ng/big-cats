@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Big Cats</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lion_desc">The lion is a large cat of the genus Panthera native to Africa and India. It has a muscular, deep-chested body, short, rounded head, round ears, and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane.</string>
+    <string name="tiger_desc">The tiger is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates such as deer and wild boar.</string>
+    <string name="jaguar_desc">The jaguar is a large cat species and the only living member of the genus Panthera native to the Americas. With a body length of up to 1.85 m and a weight of up to 96 kg, it is the largest cat species in the Americas and the third largest in the world</string>
+    <string name="leopard_desc">The leopard is one of the five extant species in the genus Panthera, a member of the cat family, Felidae. It occurs in a wide range in sub-Saharan Africa, in some parts of Western and Central Asia, Southern Russia, and on the Indian subcontinent to Southeast and East Asia.</string>
+    <string name="cheetah_desc">The cheetah is a large cat native to Africa and central Iran. It is the fastest land animal, estimated to be capable of running at 80 to 128 km/h with the fastest reliably recorded speeds being 93 and 98 km/h, and as such has several adaptations for speed, including a light build, long thin legs and a long tail.</string>
+</resources>
